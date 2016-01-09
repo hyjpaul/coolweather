@@ -13,7 +13,7 @@ import model.Province;
 
 /**
  * @ClassName: CoolWeatherDB
- * @Description: TODO
+ * @Description: 数据库操作类
  * @author: Administrator
  * @date: 2016年1月7日 下午7:10:23
  */

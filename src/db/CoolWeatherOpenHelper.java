@@ -8,7 +8,7 @@ import android.database.sqlite.SQLiteOpenHelper;
 
 /** 
  * @ClassName: CoolWeatherOpenHelper 
- * @Description: TODO
+ * @Description: 初始化数据库帮助类(建表)
  * @author: Administrator
  * @date: 2016年1月7日 下午4:55:12  
  */
